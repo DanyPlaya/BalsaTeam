@@ -139,10 +139,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArrayIndexMax.cpp" />
+    <ClCompile Include="ArrayIndexMin.cpp" />
     <ClCompile Include="CoordinatesPositiveElement.cpp" />
+    <ClCompile Include="DataEnter.cpp" />
+    <ClCompile Include="DisplayArray.cpp" />
     <ClCompile Include="Lab1.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="MainLogic.cpp" />
+    <ClCompile Include="MainMenu.cpp" />
+    <ClCompile Include="MainSort.cpp" />
+    <ClCompile Include="MaxElement.cpp" />
+    <ClCompile Include="MinElement.cpp" />
     <ClCompile Include="MultiMaxMin.cpp" />
+    <ClCompile Include="MultiResult.cpp" />
+    <ClCompile Include="Seminar3cpp.cpp" />
     <ClCompile Include="SortArray.cpp" />
+    <ClCompile Include="SumCountCoordPosElement.cpp" />
     <ClCompile Include="SumPositiveElement.cpp" />
     <ClCompile Include="CountPositiveElement.cpp" />
   </ItemGroup>

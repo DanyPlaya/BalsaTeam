@@ -1,14 +1,12 @@
 int* SortArray(int* arr, const int size) {
-    int* SortedArray = new int[size];
-    int key = 0;
-    int i = 0;
-    for (int j = 1; j < size; j++) {
-        key = arr[j];
-        i = j - 1;
-        while (i >= 0 && arr[i] > key) {
-            arr[i + 1] = arr[i];
-            i = i - 1;
-            arr[i + 1] = key;
+    for (int i = 1; i < size; ++i) {
+        int x = arr[i];
+        int j = i;
+        while (j > 0 && arr[j - 1] < x) {
+            arr[j] = arr[j - 1];
+            --j;
         }
+        arr[j] = x;
     }
+    return arr;
 }
