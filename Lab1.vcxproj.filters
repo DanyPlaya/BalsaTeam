@@ -5,80 +5,101 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
-    <Filter Include="Файлы заголовков">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
-    </Filter>
     <Filter Include="Файлы ресурсов">
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Исходные файлы\Seminar 3">
+      <UniqueIdentifier>{c3997982-c8f2-4ff9-8aba-e17e568c4b17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Seminar 2">
+      <UniqueIdentifier>{6bc31b78-3eb2-4267-82ec-c50f60fbb318}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Seminar 1">
+      <UniqueIdentifier>{5d359f66-8f9e-4d3f-8fdc-3aebc9404b58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Lab1.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="CountPositiveElement.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="SumPositiveElement.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="CoordinatesPositiveElement.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="MultiMaxMin.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="SortArray.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="Seminar3cpp.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="DataEnter.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="DisplayArray.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="MaxElement.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="MinElement.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="MainSort.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
     <ClCompile Include="MainMenu.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="Main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="MainLogic.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="SumCountCoordPosElement.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
     <ClCompile Include="ArrayIndexMax.cpp">
-      <Filter>Исходные файлы</Filter>
+      <Filter>Исходные файлы\Seminar 1</Filter>
     </ClCompile>
     <ClCompile Include="ArrayIndexMin.cpp">
-      <Filter>Исходные файлы</Filter>
+      <Filter>Исходные файлы\Seminar 1</Filter>
+    </ClCompile>
+    <ClCompile Include="CoordinatesPositiveElement.cpp">
+      <Filter>Исходные файлы\Seminar 1</Filter>
+    </ClCompile>
+    <ClCompile Include="CountPositiveElement.cpp">
+      <Filter>Исходные файлы\Seminar 1</Filter>
+    </ClCompile>
+    <ClCompile Include="DataEnter.cpp">
+      <Filter>Исходные файлы\Seminar 1</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplayArray.cpp">
+      <Filter>Исходные файлы\Seminar 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Lab1.cpp">
+      <Filter>Исходные файлы\Seminar 1</Filter>
+    </ClCompile>
+    <ClCompile Include="MainLogic.cpp">
+      <Filter>Исходные файлы\Seminar 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar3cpp.cpp">
+      <Filter>Исходные файлы\Seminar 1</Filter>
+    </ClCompile>
+    <ClCompile Include="MainSort.cpp">
+      <Filter>Исходные файлы\Seminar 1</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxElement.cpp">
+      <Filter>Исходные файлы\Seminar 1</Filter>
+    </ClCompile>
+    <ClCompile Include="MinElement.cpp">
+      <Filter>Исходные файлы\Seminar 1</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiMaxMin.cpp">
+      <Filter>Исходные файлы\Seminar 1</Filter>
     </ClCompile>
     <ClCompile Include="MultiResult.cpp">
-      <Filter>Исходные файлы</Filter>
+      <Filter>Исходные файлы\Seminar 1</Filter>
+    </ClCompile>
+    <ClCompile Include="SortArray.cpp">
+      <Filter>Исходные файлы\Seminar 1</Filter>
+    </ClCompile>
+    <ClCompile Include="SumCountCoordPosElement.cpp">
+      <Filter>Исходные файлы\Seminar 1</Filter>
+    </ClCompile>
+    <ClCompile Include="SumPositiveElement.cpp">
+      <Filter>Исходные файлы\Seminar 1</Filter>
+    </ClCompile>
+    <ClCompile Include="seminar3.cpp">
+      <Filter>Исходные файлы\Seminar 3</Filter>
+    </ClCompile>
+    <ClCompile Include="seminar3logic.cpp">
+      <Filter>Исходные файлы\Seminar 3</Filter>
+    </ClCompile>
+    <ClCompile Include="chekError.cpp">
+      <Filter>Исходные файлы\Seminar 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Исходные файлы\Seminar 2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Prototypes.h">
-      <Filter>Файлы заголовков</Filter>
+      <Filter>Исходные файлы\Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="Liber.h">
-      <Filter>Файлы заголовков</Filter>
+      <Filter>Исходные файлы\Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

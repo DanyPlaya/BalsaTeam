@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="ArrayIndexMax.cpp" />
     <ClCompile Include="ArrayIndexMin.cpp" />
+    <ClCompile Include="chekError.cpp" />
     <ClCompile Include="CoordinatesPositiveElement.cpp" />
     <ClCompile Include="DataEnter.cpp" />
     <ClCompile Include="DisplayArray.cpp" />
@@ -153,8 +154,11 @@
     <ClCompile Include="MinElement.cpp" />
     <ClCompile Include="MultiMaxMin.cpp" />
     <ClCompile Include="MultiResult.cpp" />
+    <ClCompile Include="seminar3.cpp" />
     <ClCompile Include="Seminar3cpp.cpp" />
     <ClCompile Include="SortArray.cpp" />
+    <ClCompile Include="seminar3logic.cpp" />
+    <ClCompile Include="Source.cpp" />
     <ClCompile Include="SumCountCoordPosElement.cpp" />
     <ClCompile Include="SumPositiveElement.cpp" />
     <ClCompile Include="CountPositiveElement.cpp" />
