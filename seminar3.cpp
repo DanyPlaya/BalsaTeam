@@ -1,6 +1,8 @@
 #include "Liber.h"
+#include "Prototypes.h"
 #include <conio.h>
-void seminar3()
+
+void seminar5()
 {
 	ifstream fin("input.txt", ios::in);
 	fin.seekg(0, ios::end);
@@ -14,10 +16,11 @@ void seminar3()
 	if (!fin)
 		cout << "File open error." << endl;
 	else
-		//s5logic(buf);
+		s5logic(buf);
 
-	delete[]buf;
 	buf = NULL;
+	delete[]buf;
 
 	fin.close();
+
 }

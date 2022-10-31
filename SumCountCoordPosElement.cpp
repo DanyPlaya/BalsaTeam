@@ -10,6 +10,7 @@ void SumCountCoordPosElement(int* arr,int size)
 		if (!CoordArray[i])
 			count++;
 	}
+
 	if (count == size)
 	{
 		cout << "No positive elements" << endl;

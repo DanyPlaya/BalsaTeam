@@ -139,13 +139,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AmountPoint.cpp" />
     <ClCompile Include="ArrayIndexMax.cpp" />
     <ClCompile Include="ArrayIndexMin.cpp" />
     <ClCompile Include="chekError.cpp" />
     <ClCompile Include="CoordinatesPositiveElement.cpp" />
     <ClCompile Include="DataEnter.cpp" />
+    <ClCompile Include="dataEnterBool.cpp" />
+    <ClCompile Include="data_Enter_sem2.cpp" />
     <ClCompile Include="DisplayArray.cpp" />
-    <ClCompile Include="Lab1.cpp" />
+    <ClCompile Include="display__Array__sem2.cpp" />
+    <ClCompile Include="EqualMaxMin.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="MainLogic.cpp" />
     <ClCompile Include="MainMenu.cpp" />
@@ -154,18 +158,25 @@
     <ClCompile Include="MinElement.cpp" />
     <ClCompile Include="MultiMaxMin.cpp" />
     <ClCompile Include="MultiResult.cpp" />
+    <ClCompile Include="Output.cpp" />
+    <ClCompile Include="seminar2__logic.cpp" />
     <ClCompile Include="seminar3.cpp" />
     <ClCompile Include="Seminar3cpp.cpp" />
     <ClCompile Include="SortArray.cpp" />
     <ClCompile Include="seminar3logic.cpp" />
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="seminar2.cpp" />
+    <ClCompile Include="MatrixSort.cpp" />
     <ClCompile Include="SumCountCoordPosElement.cpp" />
     <ClCompile Include="SumPositiveElement.cpp" />
     <ClCompile Include="CountPositiveElement.cpp" />
+    <ClCompile Include="ZeroCollum.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Liber.h" />
     <ClInclude Include="Prototypes.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

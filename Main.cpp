@@ -1,7 +1,8 @@
 #include "Liber.h"
 #include "Prototypes.h"
 
-int main() {
+int main() 
+{
 	MainMenu();
 	return 0;
 }

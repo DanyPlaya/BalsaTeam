@@ -1,4 +1,5 @@
 #include "Liber.h"
+
 bool* CoordinatesPositiveElement(int* arr, const int size)
 {
 	bool* PositiveCord = new bool[size];

@@ -8,5 +8,6 @@ int SumPositiveElement(int* arr, const int size)
 			SumElement += arr[i];
 		}
 	}
+
 	return SumElement;
 }

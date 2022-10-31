@@ -1,6 +1,7 @@
 bool* MinIndexArray(int* arr, int size, int min, int  &countMin)
 {
     bool* CordMin = new bool[size];
+
     for (int i = 0; i < size; i++)
     {
         if (arr[i] == min)
@@ -8,9 +9,11 @@ bool* MinIndexArray(int* arr, int size, int min, int  &countMin)
             CordMin[i] = true;
             countMin++;
         }
-        else {
+        else 
+        {
             CordMin[i] = false;
         }
     }
+
     return CordMin;
 }

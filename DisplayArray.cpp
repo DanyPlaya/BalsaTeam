@@ -1,4 +1,5 @@
 #include "Liber.h"
+
 void displayArray(int* Array, int size)
 {
 	for (int i = 0; i < size; i++)

@@ -1,5 +1,6 @@
 #include "Liber.h"
 #include "Prototypes.h"
+
 void chek(char* buf)
 {
 	if (AmountPoint(buf) == 0)
@@ -10,8 +11,9 @@ void chek(char* buf)
 			cout << "There is only 1 sentence in the file" << endl;
 		else
 		{
-			cout << "Inverse orser output:" << endl;
+			cout << "Find your word:" << endl;
 			Output(buf);
 		}
 	}
+	
 }

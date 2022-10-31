@@ -45,5 +45,7 @@ void MainLogic(int *arr,int size)
 
 		if (y != 'y')
 			MainMenu();
+
 	}
+	
 }

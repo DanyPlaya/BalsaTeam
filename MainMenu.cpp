@@ -6,9 +6,9 @@ void MainMenu()
 	char action = '\0';
 
 	cout << "\tPlease, choose your seminar or enter 0 to exit from the program:" << endl;
-	cout << "\n\tSeminar3 - click '1' " << endl;
-	cout << "\n\tseminar4 - click '2' " << endl;
-	cout << "\n\tseminar5 - click '3' " << endl;
+	cout << "\n\tSeminar1 - click '1' " << endl;
+	cout << "\n\tseminar2 - click '2' " << endl;
+	cout << "\n\tseminar3 - click '3' " << endl;
 	cout << "\n\t--> ";
 
 	while (true)
@@ -23,10 +23,10 @@ void MainMenu()
 			break;
 		case '2':
 			system("cls");
-			//seminar4();
+			seminar4();
 			break;
 		case '3':
-			//seminar5();
+			seminar5();
 			break;
 		case '0':
 			system("cls");

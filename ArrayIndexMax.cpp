@@ -1,6 +1,7 @@
 bool* MaxIndexArray(int* arr, int size, int max,int &countMax)
 {
     bool* CordMax = new bool[size];
+
     for (int i = 0; i < size; i++)
     {
         if (arr[i] == max)
@@ -8,9 +9,11 @@ bool* MaxIndexArray(int* arr, int size, int max,int &countMax)
             CordMax[i] = true;
             countMax++;
         }
-        else {
+        else
+        {
             CordMax[i] = false;
         }
     }
+
     return CordMax;
 }

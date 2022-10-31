@@ -1,2 +1,36 @@
-﻿  MultiMaxMin.cpp
-  Lab1.vcxproj -> C:\Users\dany\Documents\GitHub\Balsa\Lab1\BalsaTeam\x64\Debug\Lab1.exe
+﻿  AmountPoint.cpp
+  ArrayIndexMax.cpp
+  ArrayIndexMin.cpp
+  chekError.cpp
+  CoordinatesPositiveElement.cpp
+  DataEnter.cpp
+  dataEnterBool.cpp
+  data_Enter_sem2.cpp
+  DisplayArray.cpp
+  display__Array__sem2.cpp
+  EqualMaxMin.cpp
+  Main.cpp
+  MainLogic.cpp
+  MainMenu.cpp
+  MainSort.cpp
+  MaxElement.cpp
+  MinElement.cpp
+  MultiMaxMin.cpp
+  MultiResult.cpp
+  Output.cpp
+  Создание кода...
+  Компиляция...
+  seminar2__logic.cpp
+  seminar3.cpp
+C:\Users\dany\OneDrive\Документы\GitHub\Balsa\Lab1\BalsaTeam\seminar3.cpp(9,10): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  Seminar3cpp.cpp
+  SortArray.cpp
+  seminar3logic.cpp
+  seminar2.cpp
+  MatrixSort.cpp
+  SumCountCoordPosElement.cpp
+  SumPositiveElement.cpp
+  CountPositiveElement.cpp
+  ZeroCollum.cpp
+  Создание кода...
+  Lab1.vcxproj -> C:\Users\dany\OneDrive\Документы\GitHub\Balsa\Lab1\BalsaTeam\x64\Debug\Lab1.exe

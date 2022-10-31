@@ -1,6 +1,8 @@
 #include "Liber.h"
 #include "Prototypes.h"
-void MainSort(int* arr, int size) {
+
+void MainSort(int* arr, int size)
+{
 	cout << "Your entered an array" << endl;
 	displayArray(arr, size);
 	cout << endl;
@@ -11,6 +13,6 @@ void MainSort(int* arr, int size) {
 	Array_sorted = SortArray(arr, size);
 	displayArray(Array_sorted, size);
 
-	//delete[] Array_sorted;
-	//Array_sorted = NULL;
+	delete[] Array_sorted;
+	Array_sorted = NULL;
 }

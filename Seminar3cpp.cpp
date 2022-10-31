@@ -1,6 +1,8 @@
 #include "Liber.h"
 #include "Prototypes.h"
-void seminar3() {
+
+void seminar3() 
+{
 	int size = 0;
 	const int maxRangeOfArray = 50;
 	int* arr = NULL;

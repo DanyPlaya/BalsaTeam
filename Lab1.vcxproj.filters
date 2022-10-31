@@ -5,10 +5,6 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
-    <Filter Include="Файлы ресурсов">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
-    </Filter>
     <Filter Include="Исходные файлы\Seminar 3">
       <UniqueIdentifier>{c3997982-c8f2-4ff9-8aba-e17e568c4b17}</UniqueIdentifier>
     </Filter>
@@ -21,6 +17,10 @@
     <Filter Include="Исходные файлы\Файлы заголовков">
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -46,9 +46,6 @@
       <Filter>Исходные файлы\Seminar 1</Filter>
     </ClCompile>
     <ClCompile Include="DisplayArray.cpp">
-      <Filter>Исходные файлы\Seminar 1</Filter>
-    </ClCompile>
-    <ClCompile Include="Lab1.cpp">
       <Filter>Исходные файлы\Seminar 1</Filter>
     </ClCompile>
     <ClCompile Include="MainLogic.cpp">
@@ -90,8 +87,35 @@
     <ClCompile Include="chekError.cpp">
       <Filter>Исходные файлы\Seminar 3</Filter>
     </ClCompile>
-    <ClCompile Include="Source.cpp">
+    <ClCompile Include="seminar2.cpp">
       <Filter>Исходные файлы\Seminar 2</Filter>
+    </ClCompile>
+    <ClCompile Include="EqualMaxMin.cpp">
+      <Filter>Исходные файлы\Seminar 1</Filter>
+    </ClCompile>
+    <ClCompile Include="data_Enter_sem2.cpp">
+      <Filter>Исходные файлы\Seminar 2</Filter>
+    </ClCompile>
+    <ClCompile Include="display__Array__sem2.cpp">
+      <Filter>Исходные файлы\Seminar 2</Filter>
+    </ClCompile>
+    <ClCompile Include="seminar2__logic.cpp">
+      <Filter>Исходные файлы\Seminar 2</Filter>
+    </ClCompile>
+    <ClCompile Include="ZeroCollum.cpp">
+      <Filter>Исходные файлы\Seminar 2</Filter>
+    </ClCompile>
+    <ClCompile Include="MatrixSort.cpp">
+      <Filter>Исходные файлы\Seminar 2</Filter>
+    </ClCompile>
+    <ClCompile Include="dataEnterBool.cpp">
+      <Filter>Исходные файлы\Seminar 2</Filter>
+    </ClCompile>
+    <ClCompile Include="AmountPoint.cpp">
+      <Filter>Исходные файлы\Seminar 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Output.cpp">
+      <Filter>Исходные файлы\Seminar 3</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -101,5 +125,8 @@
     <ClInclude Include="Liber.h">
       <Filter>Исходные файлы\Файлы заголовков</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt" />
   </ItemGroup>
 </Project>
